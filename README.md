@@ -26,7 +26,7 @@
 </div>
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,bootstrap,react,nodejs,linkedin,mongodb,firebase,github,git,postman,figma,perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,c,javascript,bootstrap,react,nodejs,linkedin,mongodb,firebase,github,git,postman,figma,perline=5)](https://skillicons.dev)
 
 ![Parth Vachhani's GitHub stats](https://github-readme-stats.vercel.app/api?username=parthVachhani06&show_icons=true&theme=dark)
 
