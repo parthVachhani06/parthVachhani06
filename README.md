@@ -20,6 +20,9 @@
    <a href="https://x.com/parthvac2212">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+    <a href="https://www.linkedin.com/in/parth-vachhani-87b514268/">
+    <img src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=black" alt="linkedin Badge"/>
+  </a>
 </div>
 
 ### Languages and Tools:
